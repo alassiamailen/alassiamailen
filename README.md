@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alassiamailen&label=Profile%20views&color=0e75b6&style=flat" alt="alassiamailen" /> </p>
 
-- 🔭 I’m currently working on [A.D.I.P web](https://front-deploy-adipweb.onrender.com/#/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alassiamailen" alt="alassiamailen" /></a> </p>
 
-- 🌱 I’m currently learning **Actualmente estoy aprendiendo Next.js y TypeScript**
+- 🔭 Actualmente estoy trabajando en [A.D.I.P web](https://front-deploy-adipweb.onrender.com/#/)
 
-- 💬 Ask me about **Javascript, ReactJs, ReduxJs,Express,Sequelize**
+- 🌱 **Actualmente estoy aprendiendo Next.js y TypeScript**
 
-- 📫 How to reach me **alassiamailen3@gmail.com**
+- 💬 Puedes consultarme acerca de **Javascript, ReactJs, ReduxJs,Express,Sequelize**
+
+- 📫 Contactame **alassiamailen3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
